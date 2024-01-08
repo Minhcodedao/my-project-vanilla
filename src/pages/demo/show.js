@@ -1,3 +1,2 @@
-import { myName } from "../../utilities";
+console.log ("Hello Word");
 
-console.log(myName);
