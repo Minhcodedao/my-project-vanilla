@@ -1,2 +1,2 @@
 export const myName = "Vũ Công Minh";
-console.log("Hello World");
+console.log("Hello World21");
